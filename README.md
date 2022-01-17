@@ -1,5 +1,7 @@
 ### Andrii Tovstukha
 
+![](https://github.com/Tovstukha-A/Tovstukha-A/blob/main/Welcome%20to%20my%20account.png)
+
 Hello, I'm Andrii from Ukraine. I really enjoy learning languages and frameworks like JavaScript and React.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tovstukha-A)](https://github.com/anuraghazra/github-readme-stats)
