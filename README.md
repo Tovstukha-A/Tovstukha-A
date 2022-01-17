@@ -4,7 +4,7 @@
 
 Hello, I'm Andrii from Ukraine. I really enjoy learning languages and frameworks like JavaScript and React.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tovstukha-A)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.vercel.app/api?username=Tovstukha-A&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tovstukha-A&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
