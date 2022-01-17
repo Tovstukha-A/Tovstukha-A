@@ -1,4 +1,6 @@
-### Hi there 👋
+### Andrii Tovstukha
+
+Hello, I'm Andrii from Ukraine. I really enjoy learning languages and frameworks like JavaScript and React.
 
 <!--
 **Tovstukha-A/Tovstukha-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
